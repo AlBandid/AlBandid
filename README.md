@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning TypeScript and React!
-- 🔭 I’m currently working on my Vue App
+- 🔭 I’m also working on my Vue App
+- 🤔 ...and getting familiar with Angular
 <!--
 **AlBandid/AlBandid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
